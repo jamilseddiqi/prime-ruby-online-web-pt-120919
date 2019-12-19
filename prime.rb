@@ -1,5 +1,7 @@
 def prime_number(prime)
   prime.map do |p|
-    p /
+    p / 2 
+end 
+
   
   # Add  code here!
